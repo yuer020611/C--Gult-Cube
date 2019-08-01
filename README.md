@@ -1,2 +1,2 @@
-# C-Gult-
-一个简单的正方体
+# C/C++ Gult Cube
+just a simple Cube ... it is too tired...
